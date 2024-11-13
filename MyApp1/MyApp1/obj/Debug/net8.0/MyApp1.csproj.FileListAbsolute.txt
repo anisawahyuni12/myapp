@@ -1,0 +1,14 @@
+C:\Users\RPL-SMKN 4 BOGOR\Documents\X-PPLG 2\Anisa wahyuni\MyApp1\MyApp1\bin\Debug\net8.0\MyApp1.exe
+C:\Users\RPL-SMKN 4 BOGOR\Documents\X-PPLG 2\Anisa wahyuni\MyApp1\MyApp1\bin\Debug\net8.0\MyApp1.deps.json
+C:\Users\RPL-SMKN 4 BOGOR\Documents\X-PPLG 2\Anisa wahyuni\MyApp1\MyApp1\bin\Debug\net8.0\MyApp1.runtimeconfig.json
+C:\Users\RPL-SMKN 4 BOGOR\Documents\X-PPLG 2\Anisa wahyuni\MyApp1\MyApp1\bin\Debug\net8.0\MyApp1.dll
+C:\Users\RPL-SMKN 4 BOGOR\Documents\X-PPLG 2\Anisa wahyuni\MyApp1\MyApp1\bin\Debug\net8.0\MyApp1.pdb
+C:\Users\RPL-SMKN 4 BOGOR\Documents\X-PPLG 2\Anisa wahyuni\MyApp1\MyApp1\obj\Debug\net8.0\MyApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RPL-SMKN 4 BOGOR\Documents\X-PPLG 2\Anisa wahyuni\MyApp1\MyApp1\obj\Debug\net8.0\MyApp1.AssemblyInfoInputs.cache
+C:\Users\RPL-SMKN 4 BOGOR\Documents\X-PPLG 2\Anisa wahyuni\MyApp1\MyApp1\obj\Debug\net8.0\MyApp1.AssemblyInfo.cs
+C:\Users\RPL-SMKN 4 BOGOR\Documents\X-PPLG 2\Anisa wahyuni\MyApp1\MyApp1\obj\Debug\net8.0\MyApp1.csproj.CoreCompileInputs.cache
+C:\Users\RPL-SMKN 4 BOGOR\Documents\X-PPLG 2\Anisa wahyuni\MyApp1\MyApp1\obj\Debug\net8.0\MyApp1.dll
+C:\Users\RPL-SMKN 4 BOGOR\Documents\X-PPLG 2\Anisa wahyuni\MyApp1\MyApp1\obj\Debug\net8.0\refint\MyApp1.dll
+C:\Users\RPL-SMKN 4 BOGOR\Documents\X-PPLG 2\Anisa wahyuni\MyApp1\MyApp1\obj\Debug\net8.0\MyApp1.pdb
+C:\Users\RPL-SMKN 4 BOGOR\Documents\X-PPLG 2\Anisa wahyuni\MyApp1\MyApp1\obj\Debug\net8.0\MyApp1.genruntimeconfig.cache
+C:\Users\RPL-SMKN 4 BOGOR\Documents\X-PPLG 2\Anisa wahyuni\MyApp1\MyApp1\obj\Debug\net8.0\ref\MyApp1.dll
